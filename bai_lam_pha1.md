@@ -3,7 +3,7 @@
 - **Mã đề:** 04
 - **Họ tên:** Nguyễn Ngọc Duy Anh
 - **Lớp:** HCM-KS26-CNTT1
-- **Link repository Pha1:** 
+- **Link repository Pha1:** https://github.com/Duyanh2k8/HCM-KS26-CNTT1_PromptAI_H02_pha1..git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
